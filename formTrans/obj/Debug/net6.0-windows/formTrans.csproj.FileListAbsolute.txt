@@ -4,7 +4,6 @@ C:\Users\lcg80\source\repos\formTrans\formTrans\bin\Debug\net6.0-windows\formTra
 C:\Users\lcg80\source\repos\formTrans\formTrans\bin\Debug\net6.0-windows\formTrans.dll
 C:\Users\lcg80\source\repos\formTrans\formTrans\bin\Debug\net6.0-windows\formTrans.pdb
 C:\Users\lcg80\source\repos\formTrans\formTrans\obj\Debug\net6.0-windows\formTrans.csproj.AssemblyReference.cache
-C:\Users\lcg80\source\repos\formTrans\formTrans\obj\Debug\net6.0-windows\formTrans.Form1.resources
 C:\Users\lcg80\source\repos\formTrans\formTrans\obj\Debug\net6.0-windows\formTrans.Form2.resources
 C:\Users\lcg80\source\repos\formTrans\formTrans\obj\Debug\net6.0-windows\formTrans.csproj.GenerateResource.cache
 C:\Users\lcg80\source\repos\formTrans\formTrans\obj\Debug\net6.0-windows\formTrans.GeneratedMSBuildEditorConfig.editorconfig
@@ -16,3 +15,4 @@ C:\Users\lcg80\source\repos\formTrans\formTrans\obj\Debug\net6.0-windows\refint\
 C:\Users\lcg80\source\repos\formTrans\formTrans\obj\Debug\net6.0-windows\formTrans.pdb
 C:\Users\lcg80\source\repos\formTrans\formTrans\obj\Debug\net6.0-windows\formTrans.genruntimeconfig.cache
 C:\Users\lcg80\source\repos\formTrans\formTrans\obj\Debug\net6.0-windows\ref\formTrans.dll
+C:\Users\lcg80\source\repos\formTrans\formTrans\obj\Debug\net6.0-windows\formTrans.pub.resources

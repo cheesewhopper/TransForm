@@ -10,13 +10,22 @@ using System.Windows.Forms;
 
 namespace formTrans
 {   
-    
+
     public partial class Form2 : Form
     {
-        public interface a = 0;
-        public Form2()
+        public int a = 0;
+        Form1 f = null;
+
+        public Form2(string title, Form1 frm)
         {
             InitializeComponent();
+            f = frm;
+            this.Text = title;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            pub.shredA = textBox1.Text;
         }
     }
 }
