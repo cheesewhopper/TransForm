@@ -21,6 +21,7 @@ namespace formTrans
             InitializeComponent();
             f = frm;
             this.Text = title;
+            //타이틀변경
         }
 
         private void button1_Click(object sender, EventArgs e)
